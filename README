@@ -1,0 +1,7 @@
+This is a new Git/Pydev project to port the Matlab and C++ 
+code from the thesis Facial Feature Reconstruction using
+Structure from Motion by Pieter A Rautenbach (Stellenbosch
+University), 2005 to Python. 
+
+Keywords: Unscented, Kalman, Filter, UKF, Structure, 
+Motion, Face, Facial, Cube, Reconstruction, Quartenion
